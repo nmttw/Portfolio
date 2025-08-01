@@ -29,11 +29,12 @@ Meu objetivo é atuar com segurança ofensiva e/ou defensiva e estou buscando um
 
 ---
 
-## 🌱 Em aprendizado
+## 🌱 Em aprendizado contínuo
 
-- Pentest web e mobile
-- Defesa de sistemas (blue team)
-- Scripts de automação
-- Normas como ISO/IEC 27001 e LGPD
+- Pentest web e infraestrutura (com foco em exploração manual)
+- Pós-exploração, escalonamento de privilégios e movimentação lateral
+- Automação de tarefas ofensivas para reconhecimento e pós-exploração
+- Red Team e técnicas avançadas de ataque
+- Normas e compliance: ISO/IEC 27001, LGPD
 
 ---
