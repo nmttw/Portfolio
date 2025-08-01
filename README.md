@@ -1,6 +1,6 @@
 # Portfólio de Segurança da Informação
 
-Olá! 👋 Meu nome é [Seu Nome] e sou estudante de [Seu Curso] com foco em **Segurança da Informação**.  
+Olá! 👋 Meu nome é Matheus e sou estudante de **Segurança da Informação**.  
 Este repositório documenta minha jornada de aprendizado prático, contendo anotações, scripts, write-ups e ferramentas que venho estudando.
 
 Meu objetivo é atuar com segurança ofensiva e/ou defensiva e estou buscando um estágio para aplicar meus conhecimentos em um ambiente real.
@@ -37,5 +37,3 @@ Meu objetivo é atuar com segurança ofensiva e/ou defensiva e estou buscando um
 - Normas como ISO/IEC 27001 e LGPD
 
 ---
-
-## 🔗 Perfis
