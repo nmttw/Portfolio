@@ -15,8 +15,6 @@ Meu objetivo é atuar com segurança ofensiva e/ou defensiva e estou buscando um
 | `vulnerabilidades/`      | Relatórios e explorações de CVEs em labs seguros                         |
 | `ferramentas/`           | Uso prático de ferramentas como Nmap, Wireshark, Burp Suite e Metasploit |
 | `scripts/`               | Scripts simples de automação e testes                                   |
-| `labs/`                  | Write-ups de salas do TryHackMe, HackTheBox e VulnHub                    |
-| `certificacoes/`         | Cursos realizados e anotações                                            |
 
 ---
 
